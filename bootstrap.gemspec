@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'bootstrap/version'
 
 Gem::Specification.new do |s|
-  s.name     = 'codeur-bootstrap'
+  s.name     = 'bootstrap'
   s.version  = Bootstrap::VERSION
   s.authors  = ['Twitter, Inc.']
   s.email    = 'glex.spb@gmail.com'
